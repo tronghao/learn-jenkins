@@ -1,3 +1,3 @@
 <?php
-  echo "Test page";
+  echo "Test page - check jenkins working";
 ?>
